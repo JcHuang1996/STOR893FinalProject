@@ -38,3 +38,7 @@ Run
 python plot_Swimmer.py
 ```
 The script loads test returns in .npy files.
+
+#### Acknowledgement:
+The general frame of this implementation is largely based on a nice DDPG implementation from the paper: https://arxiv.org/pdf/1806.04854.pdf
+Github: https://github.com/emtiyaz/vadam/tree/master/tensorflow_RL

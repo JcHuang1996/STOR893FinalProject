@@ -18,7 +18,7 @@ There are 5 python scripts:
 * ActorNetwork.py - This script implements actor network with deterministic weights. This is the actor network for usual DDPG.
 * CriticNetwork.py - This script implements critic network. This is the critic network for usual DDPG, and is used by all methods.
 * Replay_buffer.py - This implements the usual first-in-first-out replay buffer.
-* plot_Swimmer.py - This is for plotting the result. It loads .npy test performance files and plot averaged performances.
+* plot_Swimmer.py - This is for plotting the result. 
 
 ### How to train an agent:
 For RL experiment:
